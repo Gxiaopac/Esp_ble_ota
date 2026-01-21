@@ -1,0 +1,5 @@
+{
+  "description": "ESP32 BLE OTA update client. Pro-grade mobile interface with haptic feedback.",
+  "requestFramePermissions": [],
+  "name": "ESP32 OTA Pro"
+}
